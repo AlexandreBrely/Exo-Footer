@@ -4,6 +4,9 @@ h1 {
     margin-top: 15%;
     margin-bottom: 15%;
 }
+h3 {
+    text-align: center;
+}
 
 footer {
     background-color: #D9D9D9;
@@ -11,18 +14,19 @@ footer {
 
 }
 .Maps {
-    border: 2px; color: black;
+    border: 1px solid black;
     width: 33%;
     display: inline-block;
    
 
 }
 img {
-    margin-left: 50px;
-    width: 60%;
+    margin-left: 15px;
+    width: 80%;
     height: auto;
 }
 .coord {
+    border: 1px solid black;
     width: 33%;
     display: inline-block;
     text-align: center;
@@ -31,6 +35,8 @@ img {
     line-height: 2;
 }
 .horaires {
+    
+    border: 1px solid black;
     width: 33%;
     display: inline-block;
     
@@ -43,4 +49,7 @@ img {
 }
 svg {
     margin-left: 30px;
+}
+ul {
+    list-style: none;
 }
