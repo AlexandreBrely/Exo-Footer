@@ -42,6 +42,14 @@ img {
     
     margin-top: 5rem;
 }
+.jours {
+    width: 45%;
+    display: inline-block;
+}
+.heures {
+    width: 45%;
+    display: inline-block;
+}
 .social {
     margin-top: 10px;
     margin-left: auto;
