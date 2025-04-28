@@ -12,10 +12,10 @@ footer {
 
 }
 .Maps {
+    text-align: center;
     margin-top: 4rem;
     padding-top: 10px;
-    margin-left: 2rem;
-    margin-right: -2rem;
+
     width: 33%;
     display: inline-block;
     
