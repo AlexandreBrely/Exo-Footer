@@ -14,7 +14,8 @@ footer {
 .Maps {
     margin-top: 4rem;
     padding-top: 10px;
-    
+    margin-left: 2rem;
+    margin-right: -2rem;
     width: 33%;
     display: inline-block;
     
@@ -62,7 +63,7 @@ img {
     text-align: left;
     width: 45%;
     display: inline-block;
-    margin-right: 50px;
+    margin-right: 40px;
 }
 
 .social {
